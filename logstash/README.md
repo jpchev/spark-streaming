@@ -19,7 +19,7 @@ In a logstash pipeline add in output plugin
 
 
 
-In a logstash pipeline add in output plugin
+In another logstash pipeline add in output plugin
 
     tcp {
       id => "tcp_output_2"
